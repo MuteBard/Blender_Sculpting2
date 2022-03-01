@@ -42,3 +42,7 @@ https://www.aorus.com/graphics-cards/GV-R57XTAORUS-8GDS-rev-10/Support
   Shift A > Converter > Color Ramp
 
 ![](../images/DEV-53/DEV-53-C3.png)
+
+![](../images/DEV-53/DEV-53-C4.png)
+
+![](../images/DEV-53/DEV-53-C5.png)
