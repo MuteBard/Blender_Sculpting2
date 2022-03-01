@@ -29,12 +29,16 @@
 
 ## Install Driver
 
-https://www.aorus.com/graphics-cards/GV-R57XTAORUS-8GD-rev-10/Support
+https://www.aorus.com/graphics-cards/GV-R57XTAORUS-8GDS-rev-10/Support
 
-## X
+## Last touches
 
 ![](../images/DEV-53/DEV-53-C1.png)
 
-Shift A > Input > Geometry
+  Shift A > Input > Geometry
 
 ![](../images/DEV-53/DEV-53-C2.png)
+
+  Shift A > Converter > Color Ramp
+
+![](../images/DEV-53/DEV-53-C3.png)
