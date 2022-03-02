@@ -1,4 +1,4 @@
-# DEV-52, Clay Shader - Bump Map
+S# DEV-52, Clay Shader - Bump Map
 ### Tags: [bump maps, nodes, website]
 ### Link: https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/33782398
 
@@ -38,7 +38,7 @@
 
 ## Website for textures
 
-<https://www.cgbookcase.com/>
+A
 
 ![](../images/DEV-52/DEV-52-E1.png)
 
