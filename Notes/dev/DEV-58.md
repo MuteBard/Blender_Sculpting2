@@ -1,4 +1,4 @@
-# DEV-58, Body Details
+# DEV-58, Coloring - Body Details Pt2
 ### Tags: []
 ### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/33898298>
 
